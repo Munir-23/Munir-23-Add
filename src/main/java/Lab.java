@@ -1,3 +1,5 @@
+import java.util.*;
+import java.util.Scanner;
 
 public class Lab {
     /**
@@ -10,7 +12,14 @@ public class Lab {
      * @param b second number to be added.
      * @return the sum of a and b.
      */
-    public int addNumbers(int a, int b){
-        return 0;
-    }
-}
+    public int addNumbers(int x, int y){
+
+      
+         int a = 9;
+         int b = 10;
+        int sum = x + y;
+         return sum;
+      
+              }
+            }
+
